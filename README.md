@@ -1,6 +1,6 @@
 ### Hi, I am W.T. Chang 👋
 
-I am a passionate DevOps, SRE, and backend engineer with expertise in building robust and scalable systems. My work involves cloud infrastructure, containers, serverless architecture and implementing best practices for reliability and performance.
+I am a dedicated DevOps, SRE, and backend engineer with expertise in building robust and scalable systems. My work involves cloud infrastructure, containers, serverless architecture and implementing best practices for reliability and performance.
 
 One of my passions is sharing my knowledge and insights on DevOps, containers, and programming on my blog, where I delve into practical tips, industry trends, and lessons learned (hopefully not the hard way).
 
