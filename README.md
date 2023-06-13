@@ -2,9 +2,11 @@
 
 I am a passionate DevOps, SRE, and backend engineer with expertise in building robust and scalable systems. My work involves cloud infrastructure, containers, serverless architecture and implementing best practices for reliability and performance.
 
+One of my passions is sharing my knowledge and insights on DevOps, containers, and programming on my blog, where I delve into practical tips, industry trends, and lessons learned (hopefully not the hard way).
+
 In addition to my technical pursuits, I'm an avid metalhead, finding solace in the energetic and dynamic world of heavy music. When I'm not immersed in coding and automation, you can probably find me exploring new bands.
 
-I enjoy sharing my knowledge and insights on DevOps, containers, and programming on my blog, where I delve into practical tips, industry trends, and lessons learned (hopefully not the hard way). Feel free to connect with me!
+Feel free to connect with me!
 
 You can find me at:
 - 🏠 [My Blog][blog]
