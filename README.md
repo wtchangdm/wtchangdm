@@ -8,7 +8,7 @@ In addition to my technical pursuits, I'm an avid metalhead, finding solace in t
 
 Feel free to connect with me!
 
-You can find me at:
+You can find me on:
 - 🏠 [My Blog][blog]
 - 🏢 [LinkedIn][linkedin]
 
