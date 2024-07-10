@@ -14,7 +14,7 @@ You can find me on:
 
 ![][view]
 
-![][onexengineer]
+[![][onexengineer]](https://1x.engineer/)
 
 [blog]: https://blog.wtcx.dev
 [linkedin]: https://www.linkedin.com/in/wtcx/
